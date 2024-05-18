@@ -3,11 +3,11 @@
 =======
 # Travel Memory
 
-`.env` file to work with the backend:
+`.env` file to work with the backend after creating a database in mongodb: 
 
 ```
 MONGO_URI='ENTER_YOUR_URL'
-PORT=3000
+PORT=3001
 ```
 
 Data format to be added: 
