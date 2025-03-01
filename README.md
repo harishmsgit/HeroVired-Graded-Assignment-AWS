@@ -27,4 +27,13 @@ Data format to be added:
     "featured": true
 }
 ```
+<<<<<<< HEAD
 >>>>>>> a860ae5 (Update README.md)
+=======
+
+
+For frontend, you need to create `.env` file and put the following content (remember to change it based on your requirements):
+```bash
+REACT_APP_BACKEND_URL=http://localhost:3001
+```
+>>>>>>> 722b4ee (UPDATE: updating the readme)
